@@ -4,4 +4,3 @@
 
     @include('country.common.footer')
 </div>
-
