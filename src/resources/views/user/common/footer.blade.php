@@ -10,5 +10,3 @@
 @include('user.common.footer')
 </body>
 </html>
-
-
