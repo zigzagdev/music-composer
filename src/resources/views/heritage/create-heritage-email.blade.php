@@ -7,6 +7,3 @@
 
 @include('common.footer');
 
-
-
-
