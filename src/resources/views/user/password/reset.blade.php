@@ -14,6 +14,3 @@
 </html>
 
 @include('footer');
-
-
-
