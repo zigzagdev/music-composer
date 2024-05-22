@@ -59,15 +59,6 @@
         <p>
             Your password has been reset successfully.
         </p>
-        <p>
-            Your password has been reset successfully.
-        </p>        <p>
-            Your password has been reset successfully.
-        </p>        <p>
-            Your password has been reset successfully.
-        </p>        <p>
-            Your password has been reset successfully.
-        </p>        <p>
 
     </body>
 </html>
