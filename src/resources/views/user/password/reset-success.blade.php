@@ -6,7 +6,7 @@
             background-color: #fffacd;
         }
         h1 {
-            font-size: 16px;
+            font-size: 20px;
             color: #ff6666;
         }
     </style>
@@ -14,7 +14,7 @@
         <h1>
             Reset Password Successfully .
         </h1>
-        <p>
+        <p style="color: #4a5568">
             Your password has been reset successfully.
         </p>
 
