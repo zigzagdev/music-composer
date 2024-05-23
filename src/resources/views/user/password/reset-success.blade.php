@@ -74,12 +74,6 @@
         <p style="color: #4a5568">
             Your password has been reset successfully.
         </p>
-        <p style="color: #4a5568">
-            Your password has been reset successfully.
-        </p>
-        <p style="color: #4a5568">
-            Your password has been reset successfully.
-        </p>
     </body>
 </html>
 
